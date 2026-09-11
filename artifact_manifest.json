@@ -1,0 +1,311 @@
+{
+  "manifest_version": 1,
+  "session": "68ada4247a9e",
+  "updated_at": 1789087412.8050752,
+  "data_source": null,
+  "problems": {
+    "1": {
+      "idx": 1,
+      "title": "",
+      "claims": [],
+      "artifacts": {
+        "code": {
+          "path": "src/problem1.py",
+          "exists": true,
+          "sha1": "8578fdd4234c4cbe95d38a74e8e8c6cf6919d923",
+          "mtime": 1789053672.492842
+        },
+        "data": {
+          "paths": [
+            "data/附件1.xlsx",
+            "data/附件2.xlsx",
+            "data/附件3.xlsx",
+            "data/附件4.xlsx"
+          ]
+        },
+        "results": {
+          "paths": [
+            "results/problem1.json"
+          ],
+          "mtime": 1789087313.198304
+        },
+        "figures": {
+          "paths": [
+            "figures/problem1.png",
+            "figures/problem1_data.png",
+            "figures/problem1_diagnostic.png"
+          ]
+        },
+        "journal": {
+          "path": "journal/problem1.md",
+          "exists": false,
+          "mtime": null
+        },
+        "chapter": {
+          "path": "chapters/problem1.md",
+          "exists": false,
+          "mtime": null,
+          "missing_segments": []
+        }
+      },
+      "state": {
+        "code": true,
+        "run": {
+          "ok": true,
+          "exit_code": null,
+          "at": null,
+          "code_sha1": "8578fdd4234c4cbe95d38a74e8e8c6cf6919d923",
+          "inferred": true
+        },
+        "verified": {
+          "verdict": "pass",
+          "at": null,
+          "source": "artifact_check",
+          "pass": true,
+          "agent_verdict": null
+        },
+        "chapter": false,
+        "chapter_partial": false,
+        "fig": true,
+        "stale": {
+          "chapter": false
+        }
+      }
+    },
+    "2": {
+      "idx": 2,
+      "title": "",
+      "claims": [],
+      "artifacts": {
+        "code": {
+          "path": "src/problem2.py",
+          "exists": true,
+          "sha1": "f82de0e09df9eae6534c6c375d5d4290061ae80e",
+          "mtime": 1789085828.8506274
+        },
+        "data": {
+          "paths": [
+            "data/附件1.xlsx",
+            "data/附件2.xlsx",
+            "data/附件3.xlsx",
+            "data/附件4.xlsx"
+          ]
+        },
+        "results": {
+          "paths": [
+            "results/problem2.json"
+          ],
+          "mtime": 1789087412.0323565
+        },
+        "figures": {
+          "paths": [
+            "figures/problem2.png"
+          ]
+        },
+        "journal": {
+          "path": "journal/problem2.md",
+          "exists": false,
+          "mtime": null
+        },
+        "chapter": {
+          "path": "chapters/problem2.md",
+          "exists": false,
+          "mtime": null,
+          "missing_segments": []
+        }
+      },
+      "state": {
+        "code": true,
+        "run": {
+          "ok": true,
+          "exit_code": null,
+          "at": null,
+          "code_sha1": "f82de0e09df9eae6534c6c375d5d4290061ae80e",
+          "inferred": true
+        },
+        "verified": {
+          "verdict": "pass",
+          "at": null,
+          "source": "artifact_check",
+          "pass": true,
+          "agent_verdict": null
+        },
+        "chapter": false,
+        "chapter_partial": false,
+        "fig": true,
+        "stale": {
+          "chapter": false
+        }
+      }
+    },
+    "3": {
+      "idx": 3,
+      "title": "",
+      "claims": [],
+      "artifacts": {
+        "code": {
+          "path": "src/problem3.py",
+          "exists": true,
+          "sha1": "80f28437f9c463d372aa91547b7d1b1f6ae1a1d6",
+          "mtime": 1789087019.1030695
+        },
+        "data": {
+          "paths": [
+            "data/附件1.xlsx",
+            "data/附件2.xlsx",
+            "data/附件3.xlsx",
+            "data/附件4.xlsx"
+          ]
+        },
+        "results": {
+          "paths": [
+            "results/problem3.json"
+          ],
+          "mtime": 1789087350.9867291
+        },
+        "figures": {
+          "paths": [
+            "figures/problem3.png"
+          ]
+        },
+        "journal": {
+          "path": "journal/problem3.md",
+          "exists": false,
+          "mtime": null
+        },
+        "chapter": {
+          "path": "chapters/problem3.md",
+          "exists": false,
+          "mtime": null,
+          "missing_segments": []
+        }
+      },
+      "state": {
+        "code": true,
+        "run": {
+          "ok": true,
+          "exit_code": null,
+          "at": null,
+          "code_sha1": "80f28437f9c463d372aa91547b7d1b1f6ae1a1d6",
+          "inferred": true
+        },
+        "verified": {
+          "verdict": "pass",
+          "at": null,
+          "source": "artifact_check",
+          "pass": true,
+          "agent_verdict": null
+        },
+        "chapter": false,
+        "chapter_partial": false,
+        "fig": true,
+        "stale": {
+          "chapter": false
+        }
+      }
+    },
+    "4": {
+      "idx": 4,
+      "title": "",
+      "claims": [],
+      "artifacts": {
+        "code": {
+          "path": "src/problem4.py",
+          "exists": true,
+          "sha1": "235bbce3a9ca55470af7808306bb1fe560df64ee",
+          "mtime": 1789058370.22556
+        },
+        "data": {
+          "paths": [
+            "data/附件1.xlsx",
+            "data/附件2.xlsx",
+            "data/附件3.xlsx",
+            "data/附件4.xlsx"
+          ]
+        },
+        "results": {
+          "paths": [
+            "results/problem4.json"
+          ],
+          "mtime": 1789058509.465558
+        },
+        "figures": {
+          "paths": [
+            "figures/problem4.png"
+          ]
+        },
+        "journal": {
+          "path": "journal/problem4.md",
+          "exists": false,
+          "mtime": null
+        },
+        "chapter": {
+          "path": "chapters/problem4.md",
+          "exists": false,
+          "mtime": null,
+          "missing_segments": []
+        }
+      },
+      "state": {
+        "code": true,
+        "run": {
+          "ok": true,
+          "exit_code": null,
+          "at": null,
+          "code_sha1": "235bbce3a9ca55470af7808306bb1fe560df64ee",
+          "inferred": true
+        },
+        "verified": {
+          "verdict": "pass",
+          "at": null,
+          "source": "artifact_check",
+          "pass": true,
+          "agent_verdict": null
+        },
+        "chapter": false,
+        "chapter_partial": false,
+        "fig": true,
+        "stale": {
+          "chapter": false
+        }
+      }
+    }
+  },
+  "framework": {
+    "all_done": false,
+    "missing": [
+      "restatement",
+      "analysis",
+      "assumptions",
+      "symbols",
+      "data_profile",
+      "validation",
+      "evaluation",
+      "references"
+    ],
+    "source": "framework_tasks.json",
+    "next": "restatement"
+  },
+  "exports": {
+    "report": {
+      "path": "report.md",
+      "exists": true,
+      "mtime": 1789082668.0485718
+    },
+    "docx": {
+      "path": "build/thesis.docx",
+      "exists": false,
+      "mtime": null
+    },
+    "pdf": {
+      "path": "build/thesis.pdf",
+      "exists": false,
+      "mtime": null
+    }
+  },
+  "gates": {
+    "evidence_all_pass": true,
+    "framework_complete": false,
+    "export_ready": false
+  }
+}

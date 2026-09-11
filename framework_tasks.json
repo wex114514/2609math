@@ -1,0 +1,56 @@
+{
+  "order": [
+    "restatement",
+    "analysis",
+    "assumptions",
+    "symbols",
+    "data_profile",
+    "validation",
+    "evaluation",
+    "conclusion",
+    "abstract",
+    "references"
+  ],
+  "tasks": {
+    "restatement": {
+      "done": false,
+      "updated_at": null
+    },
+    "analysis": {
+      "done": false,
+      "updated_at": null
+    },
+    "assumptions": {
+      "done": false,
+      "updated_at": null
+    },
+    "symbols": {
+      "done": false,
+      "updated_at": null
+    },
+    "data_profile": {
+      "done": false,
+      "updated_at": null
+    },
+    "validation": {
+      "done": false,
+      "updated_at": null
+    },
+    "evaluation": {
+      "done": false,
+      "updated_at": null
+    },
+    "conclusion": {
+      "done": true,
+      "updated_at": null
+    },
+    "abstract": {
+      "done": true,
+      "updated_at": null
+    },
+    "references": {
+      "done": false,
+      "updated_at": null
+    }
+  }
+}
